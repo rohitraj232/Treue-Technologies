@@ -1,7 +1,8 @@
-# Treue-Technologies
+# Treue-Technologies 
 
-Click here to check live website: https://coding-platform-landing-page.netlify.app/
+Click here to check live website: https://basic-unit-conversion.netlify.app/
 
-Here is demo of my work i created a landing page (task-1) and adding social media integaration (task-2) with testimonial section (task-5) using html and css.
+In this project i created a web-based application that eliminates the complexities associated with manual conversions. It allows users to input a numerical value and select the units they want to convert from and to. In this project there are many range of measurement options such as centimeters, inches, feet, and meters.
 
-https://github.com/rohitraj232/Treue-Technologies/assets/57895889/fc0f0d45-601b-4e3f-86a0-f4c598b9a998
+https://github.com/rohitraj232/Treue-Technologies/assets/57895889/abc22d47-8565-4abf-949f-04b9bbe575f5
+
