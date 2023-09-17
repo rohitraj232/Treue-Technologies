@@ -1,6 +1,8 @@
 # Treue-Technologies
 
-Click here to check live website: https://coding-platform-landing-page.netlify.app/
+Click here to check live website: https://image-search-engine-1234.netlify.app/
 
-Here is demo of my work i created a landing page (task-1) and adding social media integaration (task-2) with testimonial section (task-5) using html and css.
+In this project i have created a web application that is an image gallery. It fetches images from the Pexels website using the Pexels API and displays them. We can preview and download the images.
+
+https://github.com/rohitraj232/Treue-Technologies/assets/57895889/7f18c807-3667-4af4-8367-925005409eac
 
