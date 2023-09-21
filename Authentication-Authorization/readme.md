@@ -1,7 +1,6 @@
 # Treue-Technologies
 
-Click here to check live website: https://coding-platform-landing-page.netlify.app/
+I have created a user login and registration form using ReactJS and Database that also saves user data to a database. It checks whether the user is already registered or not, and whether the user's password is valid or not.
 
-Here is demo of my work i created a landing page (task-1) and adding social media integaration (task-2) with testimonial section (task-5) using html and css.
+https://github.com/rohitraj232/Treue-Technologies/assets/57895889/a8f50ac9-8f59-4502-86fd-66633b3a2041
 
-https://github.com/rohitraj232/Treue-Technologies/assets/57895889/fc0f0d45-601b-4e3f-86a0-f4c598b9a998
