@@ -1,4 +1,4 @@
-# Treue-Technologies
+# Treue-Technologies: Landing-Page
 
 Click here to check live website: https://coding-platform-landing-page.netlify.app/
 
