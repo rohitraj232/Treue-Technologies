@@ -1,4 +1,4 @@
-# Treue-Technologies
+# Treue-Technologies: Image_Gallery
 
 Click here to check live website: https://image-search-engine-1234.netlify.app/
 
