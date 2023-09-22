@@ -1,8 +1,4 @@
 # Treue-Technologies
 
-Click here to check live website: https://coding-platform-landing-page.netlify.app/
-
-Here is demo of my work i created a landing page (task-1) and adding social media integaration (task-2) with testimonial section (task-5) using html and css.
-
-https://github.com/rohitraj232/Treue-Technologies/assets/57895889/fc0f0d45-601b-4e3f-86a0-f4c598b9a998
+In the last month, I've had the privilege of being a virtual intern at Treue Technologies, immersing myself in the world of data science. This period has been an incredible month of growth and discovery, offering a deep dive into the real-world applications of data science and affording me the opportunity to contribute to meaningful projects. In the following account, I'll reflect on the pivotal experiences and invaluable knowledge acquired during this extraordinary venture.
 
