@@ -1,4 +1,4 @@
-# Treue-Technologies
+# Treue-Technologies: Calculator
 
 Click here to check live calculator: https://calculator-reactjs-crjs.netlify.app/
 
